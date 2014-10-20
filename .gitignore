@@ -1,0 +1,9 @@
+#ignorar copias de seguridad
+/*~
+/*.swp
+
+#ignorar los .class
+/*.class
+
+#ignorar la carpeta empty
+/empty
